@@ -12,4 +12,6 @@ web-server/node_modules/*
 *.swp
 *.sublime-project
 *.sublime-workspace
-.idea
+.idea/
+.vscode/
+
